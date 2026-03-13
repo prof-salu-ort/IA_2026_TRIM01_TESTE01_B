@@ -67,7 +67,4 @@ Escreva a sua resposta teórica aqui...
 
 if __name__ == "__main__":
     # Área livre para testes locais do aluno.
-    # Exemplo de teste esperado para a Questão 4:
-    # print(divisao_recursiva(20, 5)) # Deve imprimir 4
-    # print(divisao_recursiva(17, 5)) # Deve imprimir 3
     pass
